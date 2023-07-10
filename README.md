@@ -1,8 +1,4 @@
-<div align="center">
-  <img src="your-profile-image-url" alt="Your Name" width="200" height="200">
-</div>
-
-# Hi there, I'm [Narasimhan]! 👋
+# Hi there, I'm Narasimhan! 👋
 
 ## About Me 🙋‍♂️
 
