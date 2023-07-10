@@ -1,16 +1,32 @@
-### Hi there 👋
+<div align="center">
+  <img src="your-profile-image-url" alt="Your Name" width="200" height="200">
+</div>
 
-<!--
-**NarasimhanNaveen/NarasimhanNaveen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm [Narasimhan]! 👋
 
-Here are some ideas to get you started:
+## About Me 🙋‍♂️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am passionate about Web Development and Web Designing. With over 3 years of experience in PCCR processing and Jumio process, I have gained expertise in these areas. I am skilled in HTML, CSS, Python, C, Mortgage, and OOPS.
+
+## Skills 🚀
+
+- HTML ⚡️
+- CSS ⚡️
+- Python ⚡️
+- C ⚡️
+- Mortgage ⚡️
+- OOPS ⚡️
+
+## Interests 🌟
+
+I am interested in working in the IT field, specifically in the domains of Web Development and Python. I am always eager to collaborate with talented web developers.
+
+## Connect with Me 📫
+
+Let's connect and collaborate! You can reach out to me through the following platforms:
+
+- LinkedIn: [Your LinkedIn Profile URL](link-to-linkedin-profile) 💼
+- Twitter: [@YourTwitterHandle](link-to-twitter-profile) 🐦
+- Personal Website: [Your Website URL](link-to-personal-website) 🌐
+
+Feel free to get in touch if you have any questions or would like to discuss potential projects!
