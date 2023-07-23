@@ -23,6 +23,6 @@ Let's connect and collaborate! You can reach out to me through the following pla
 
 - LinkedIn: [https://www.linkedin.com/in/narasimhan-n-1545b21b2/](link-to-linkedin-profile) 💼
 - Email : [naveenskitty07@gmail.com](link-to-email-profile) 🐦
-- Personal Website: [https://narasimhannaveen.github.io/Naveen/](link-to-personal-website) 🌐
+- Personal Website: [https://narasimhannaveen.github.io/Portfolio/](link-to-personal-website) 🌐
 
 Feel free to get in touch if you have any questions or would like to discuss potential projects!
